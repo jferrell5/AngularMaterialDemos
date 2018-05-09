@@ -4,9 +4,13 @@
 /dist
 /tmp
 /out-tsc
+/
 
 # dependencies
 /node_modules
+
+# credentials
+/src/environments/environment.ts
 
 # IDEs and editors
 /.idea
